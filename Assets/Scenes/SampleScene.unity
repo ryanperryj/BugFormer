@@ -16983,7 +16983,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6381736673607316553, guid: 7c76ab47c33de9c43a2d797bbd088aee, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 6381736673607316553, guid: 7c76ab47c33de9c43a2d797bbd088aee, type: 3}
       propertyPath: m_LocalPosition.y
@@ -17303,7 +17303,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6381736673607316553, guid: 7c76ab47c33de9c43a2d797bbd088aee, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6381736673607316553, guid: 7c76ab47c33de9c43a2d797bbd088aee, type: 3}
       propertyPath: m_LocalPosition.y
@@ -17435,7 +17435,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6381736673607316553, guid: 7c76ab47c33de9c43a2d797bbd088aee, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1
+      value: -7
       objectReference: {fileID: 0}
     - target: {fileID: 6381736673607316553, guid: 7c76ab47c33de9c43a2d797bbd088aee, type: 3}
       propertyPath: m_LocalPosition.y
@@ -17530,7 +17530,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.777169, y: 1}
+    m_SensorSize: {x: 1.7765958, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
